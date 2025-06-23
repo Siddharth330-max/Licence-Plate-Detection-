@@ -1,6 +1,6 @@
 ### License Plate Detection Application  
 
-**Project Description : **
+**Project Description :**
 Here I have used 'YOLOv8' model to detect license plate from car images and deployed using Flask application  
 
 **Dataset :**
@@ -17,7 +17,7 @@ Dataset taken from roboflow , link -: [https://universe.roboflow.com/cv-v0ynj/nu
 
 5. license-plate-recognition.ipynb -: This fiel contains the jupyter notebook
 
-**To run this project : **
+**To run this project :**
 
 1. Clone the GitHub repo : git clone https://github.com/Siddharth330-max/Licence-Plate-Detection-.git
 
