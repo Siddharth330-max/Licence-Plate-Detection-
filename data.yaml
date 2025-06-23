@@ -1,0 +1,6 @@
+
+train: /kaggle/working/images/train
+val: /kaggle/working/images/train
+
+nc: 1
+names: ['license_plate']
